@@ -10,3 +10,7 @@ LangComm is your goto app to communicate with people from all around the world!
 - `playsound 1.2.2` module (`pip install playsound==1.2.2`)
 - `SpeechRecognition` module (`pip install SpeechRecognition`)
 - Python 3.10 or above
+
+  ## Run
+
+## Extra Notes
