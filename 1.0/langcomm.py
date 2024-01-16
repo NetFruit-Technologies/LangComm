@@ -12,7 +12,7 @@ if path.exists("audio.mp3"):
 
     remove("audio.mp3")
 
-pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.tesseract_cmd = r'FULL PATH TO TESSERACT EXECUTABLE HERE'
 
 footer_text = "Copyright © NetFruit Technologies LTD. All rights reserved."
 
