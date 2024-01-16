@@ -11,6 +11,8 @@ LangComm is your goto app to communicate with people from all around the world!
 - `SpeechRecognition` module (`pip install SpeechRecognition`)
 - Python 3.10 or above
 
-  ## Run
+## Run
 
 ## Extra Notes
+
+Replace `FULL PATH TO TESSERACT EXECUTABLE HERE` (Line 15) with the full path of your Tesseract OCR Engine installation.
