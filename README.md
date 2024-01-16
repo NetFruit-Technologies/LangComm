@@ -1,5 +1,6 @@
 # LangComm
-LangComm is your goto app to communicate with people from all around the world!
+
+LangComm is your goto app to communicate with people from all around the world! It supports a multitude of of languages so that you can understand someone who doesn't speak your language!
 
 ## Prerequisites
 
