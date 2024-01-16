@@ -13,6 +13,9 @@ LangComm is your goto app to communicate with people from all around the world!
 
 ## Run
 
+- Run `python3 langcomm.py` in a terminal if you have Mac/Linux.
+- Run `python langcomm.py` in a terminal if you have Windows.
+
 ## Extra Notes
 
 Replace `FULL PATH TO TESSERACT EXECUTABLE HERE` (Line 15) with the full path of your Tesseract OCR Engine installation.
