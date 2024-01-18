@@ -14,6 +14,8 @@ LangComm is your goto app to communicate with people from all around the world! 
 
 ## Run
 
+Please refer to the [releases section](https://github.com/NetFruit-Technologies/LangComm/releases/) to get any version of LangComm you want.
+
 - Run `python3 langcomm.py` in a terminal if you have Mac/Linux.
 - Run `python langcomm.py` in a terminal if you have Windows.
 
